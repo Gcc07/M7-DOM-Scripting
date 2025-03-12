@@ -51,7 +51,7 @@ window.addEventListener('load', function() {
     table.style.width = '100%'; // Style 2 Width
     table.style.textAlign = "center"; // Allign the text to the center
     table.style.borderRadius = '10px'; // Style 4: Rounded corners
-    table.style.backgroundColor = 'lightblue'; // Style 5: Background color
+    table.style.backgroundColor = 'orange'; // Style 5: Background color
     table.style.margin = 'auto'; // Style 6: Center the table
     table.style.fontFamily = ''; // Style 7: Font family
     
